@@ -1,0 +1,26 @@
+{
+  "name": "scrumtastic-shawnco",
+  "version": "1.0.0",
+  "description": "A web app for Scrum software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s17cis526/scrumtastic-shawnco.git"
+  },
+  "keywords": [
+    "scrum",
+    "software",
+    "development",
+    "task",
+    "board"
+  ],
+  "author": "Shawn Contant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s17cis526/scrumtastic-shawnco/issues"
+  },
+  "homepage": "https://github.com/s17cis526/scrumtastic-shawnco#readme"
+}
