@@ -26,7 +26,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=1
+FILE_NAME_0=675;JSON;0;EUTF-8;1;1;0;%2Fnet%2Ffiles.cis.ksu.edu%2Fexports%2Fhome%2Fs%2Fshawnco%2Fpublic_html%2Fscrumtastic-shawnco%2Fpackage.json;0;4
+FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;0;%2Fnet%2Ffiles.cis.ksu.edu%2Fexports%2Fhome%2Fs%2Fshawnco%2Fpublic_html%2Fscrumtastic-shawnco%2FREADME.md;0;4
 
 [VTE]
 last_dir=/net/files.cis.ksu.edu/exports/home/s/shawnco
